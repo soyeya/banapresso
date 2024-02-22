@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/banapresso/static/css/main.66cc30b5.css",
-    "main.js": "/banapresso/static/js/main.7e68a750.js",
+    "main.js": "/banapresso/static/js/main.ad004205.js",
     "index.html": "/banapresso/index.html",
     "main.66cc30b5.css.map": "/banapresso/static/css/main.66cc30b5.css.map",
-    "main.7e68a750.js.map": "/banapresso/static/js/main.7e68a750.js.map"
+    "main.ad004205.js.map": "/banapresso/static/js/main.ad004205.js.map"
   },
   "entrypoints": [
     "static/css/main.66cc30b5.css",
-    "static/js/main.7e68a750.js"
+    "static/js/main.ad004205.js"
   ]
 }
