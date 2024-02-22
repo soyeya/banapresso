@@ -1,0 +1,100 @@
+{
+
+   "menu" : {
+
+   "name" : [ "coffee" , "tea" , "ade" , "juice", "smoothie", "bread", "dessert"],
+   "coffee" : [
+     
+      { "id" : "coffee01", "img" : "coffee01.png" , "title" : "카페라떼" , "entitle" : "CafeLatte", "content" : "고소한 우유에 진한 에스프레소를 넣어 부드럽게 즐기는 커피" , "price" : "3,000" },
+      { "id" : "coffee02", "img" : "coffee02.png" , "title" : "시나몬라떼" , "entitle" : "CinamonLatte" , "content" : "고소한 우유에 진한 에스프레소를 넣어 만든 카페라떼에 은은하게 더한 시나몬향" , "price" : "3,500"},
+      { "id" : "coffee03", "img" : "coffee03.png" , "title" : "연유라떼" , "entitle" : "CondensedMilk CafeLatte", "content" : "달콤한 연유와 고소한 카페라떼의 조합" , "price" : "3,500"},
+      { "id" : "coffee04", "img" : "coffee04.png" , "title" : "돌체콜드브루" ,"entitle" : "Dolce ColdBrew" , "content" : "깔끔한 바나프레소 콜드브루에 달콤한 연유를 더한 부드러운 커피" , "price" : "3,500"},
+      { "id" : "coffee05", "img" : "coffee05.png" , "title" : "밀크카라멜마끼아또" , "entitle" : "Milk CaramelMacchiato" , "content" : "은은하게 버터풍미가 도는 밀크카라멜과 고소한 우유, 진한 에스프레소의 만남" , "price" : "4,000"},
+      { "id" : "coffee06", "img" : "coffee06.png" , "title" : "허니아메리카노" , "entitle" : "Honey Americano" , "content" : "진한 아메리카노와 부드럽고 은은한 꿀의 조합" , "price" : "3,000"},
+      { "id" : "coffee07", "img" : "coffee07.png" , "title" : "크리미라떼" , "entitle" : "CreamyLatte" , "content" : "부드럽고 달콤한 크림을 더해 깊은 풍미를 느낄 스페셜 커피" , "price" : "4,000"},
+      { "id" : "coffee08", "img" : "coffee08.png" , "title" : "콜드브루" , "entitle" : "ColdBrew" , "content" : "저온에서 천천히 우려내 더욱 깔끔한 맛" , "price" : "3,000"},
+      { "id" : "coffee09", "img" : "coffee09.png" , "title" : "바닐라라뗴" , "entitle" : "VanillaLatte" , "content" : "마다가스카르산 바닐라빈이 들어간 바닐라맛과 고소한 우유의 만남" , "price" : "3,500"},
+      { "id" : "coffee10", "img" : "coffee10.png" , "title" : "아메리카노" , "entitle" : "Americano" , "content" : "견과류 풍미와 쌉싸름한 맛의 밸런스" , "price" : "2,000"},
+      { "id" : "coffee11", "img" : "coffee11.png" , "title" : "카페모카" , "entitle" : "CafeMocha" , "content" : "초콜릿 풍미에 에스프레소를 더한 달콤하면서도 쌉싸름한 맛의 커피" , "price" : "3,500"},
+      { "id" : "coffee12", "img" : "coffee12.png" , "title" : "에스프레소" , "entitle" : "Espresso", "content" : "콜롬비아 원두로 추출한 과일 풍미와 균형잡힌 산미의 싱글오리진 에스프레소" , "price" : "2,000"}
+
+   ],
+
+   "Tea" : [
+
+      { "id" : "tea01", "img" : "Tea01.png" , "title" : "윈터레드뱅쇼" , "entitle" : "Winter RedVin Chaud" , "content" : "진한 레드와인 맛과 풍미, 시나몬 스틱과 오렌지가 토핑된 무알콜 레드뱅쇼" , "price" : "4,000"},
+      { "id" : "tea02", "img" : "Tea02.png" , "title" : "홀리데이로제뱅쇼" , "entitle" : "Holiday RoseVin Chaud" , "content" : "은은한 와인향과 달콤한 과일, 시나몬향이 어우러진 무알콜 로제 뱅쇼" , "price" : "4,000"},
+      { "id" : "tea03", "img" : "Tea03.png" , "title" : "자몽허니블랙티" , "entitle" : "Grapefruit Honey BlackTea" , "content" : "상큼한 자몽과 달콤한 꿀을 더한 깊은 풍미의 맛" ,"price" : "3,800"},
+      { "id" : "tea04", "img" : "Tea04.png" , "title" : "문경오미자티" ,"entitle" : "Munkyeong OmijaTea", "content" : "면역력에 좋은 100% 문경 오미자로 만든 여름철 갈증해소" , "price" : "3,800"},
+      { "id" : "tea05", "img" : "Tea05.png" , "title" : "얼음동동식혜" , "entitle" : "Sikhye (SweetRice Punch)" , "content" : "우리쌀, 우리 원재료로 만든 정성 가득한 식혜" , "price" : "3,800"},
+      { "id" : "tea06", "img" : "Tea06.png" , "title" : "페퍼민트" , "entitle" : "PeppermintTea" , "content" : "맨톨의 시원하고 청량한 향기가 입안을 개운하게 만드는 깔끔한 맛" , "price" : "3,000"},
+      { "id" : "tea07", "img" : "Tea07.png" , "title" : "제주청귤티" , "entitle" : "Jeju GreenTangerineTea" , "content" : "제주청귤로 만든 새콤달콤한 비타민 C의 맛" , "price" : "3,000"},
+      { "id" : "tea08", "img" : "Tea08.png" , "title" : "딸기퐁당밀크티" , "entitle" : "Strawberry MilkTea" , "content" : "향긋한 얼그레이로 만든 밀크티에 새콤달콤한 딸기가 어우러진 맛" , "price" : "4,000"}
+
+   ],
+
+   "Ade" : [
+      { "id" : "ade01", "img" : "Ade01.png" , "title" : "제주청귤에이드" , "entitle" : "Jeju Green Tangerine Ade", "content" : "제주청귤에 탄산수를 가미한 새콤한 맛과 청량함" , "price" : "3,800"},
+      { "id" : "ade02", "img" : "Ade02.png" , "title" : "복숭아에이드" , "entitle" : "Peach Ade" , "content" : "톡톡 터지는 탄산수에 진짜 복숭아을 넣어 진짜 복숭아가 씹히는 맛" , "price" : "3,800"},
+      { "id" : "ade03", "img" : "Ade03.png" , "title" : "레몬에이드" , "entitle" : "Lemon Ade", "content" : "상큼한 레몬과 톡톡 터지는 탄산수의 조합" , "price" : "3,800"},
+      { "id" : "ade04", "img" : "Ade04.png" , "title" : "청포도에이드" , "entitle" : "Green Grape Ade" , "content" : "싱그러운 청포도와 톡톡 터지는 탄산수와의 만남" , "price" : "3,800"}
+
+   ],
+
+   "juice" : [
+
+      { "id" : "juice01", "img" : "juice01.png" , "title" : "딸기주스" , "entitle" : "Strawberry Juice" , "content" : "언제 먹어도 맛있는 새콤달콤한 맛" , "price" : "4,500"},
+      { "id" : "juice02", "img" : "juice02.png" , "title" : "망고주스" , "entitle" : "Mango Juice" , "content" : "달달한 망고의 맛과 향이 입안가득 퍼지는 주스" , "price" : "4,500"},
+      { "id" : "juice03", "img" : "juice03.png" , "title" : "홍시주스" , "entitle" : "RipePersimmon Juice" , "content" : "홍시를 그대로 갈아만든 홍시주스", "price" : "4,500"},
+      { "id" : "juice04", "img" : "juice04.png" , "title" : "딸기요거트드링크" , "entitle" : "Strawberry Yogurt" , "content" : "딸기를 듬뿍 넣어 딸기 요거트 드링크" , "price" : "4,500"},
+      { "id" : "juice05", "img" : "juice05.png" , "title" : "복숭아요거트드링크" ,"entitle" : "Peach Yogurt" , "content" : "진짜 복숭아의 과육을 넣어 진짜 복숭아가 씹히는 요거트 드링크" , "price" : "4,500" },
+      { "id" : "juice06", "img" : "juice06.png" , "title" : "플레인요거트드링크" , "entitle" : "Plain Yogurt" , "content" : "건강한 맛, 건강한 기분의 플레인 요거트" , "price" : "4,500"}
+
+
+   ],
+
+   "smoothie" : [
+
+
+    { "id" : "smoothie01", "img" : "Smoothie01.png" , "title" : "딸기퐁당초코치노" , "entitle" : "Strawberry Chococcino" , "content" : "새콤달콤한 딸기와 진한 초콜릿에 씹히는 자바칩의 조화" , "price" : "4,800"},
+    { "id" : "smoothie02", "img" : "Smoothie02.png" , "title" : "제주청귤레몬스무디" , "entitle" : "Jeju Green Tangerine Lemon", "content" : "제주청귤에 레몬을 가미해 새콤달콤한 맛을 한층 더 끌어올린 스무디" , "price" : "4,800"},
+    { "id" : "smoothie03", "img" : "Smoothie03.png" , "title" : "딸기복숭아스무디" , "entitle" : "Strawberry Peach Smoothie" , "content" : "새콤달콤한 딸기와 향긋한 복숭아의 조화" , "price" : "4,800"},
+    { "id" : "smoothie04", "img" : "Smoothie04.png" , "title" : "레몬요거트스무디" , "entitle" : "Lemon Yogurt Smoothie" , "content" : "새콤달콤한 레몬과 요거트의 환상의 조화" , "price" : "4,800"},
+    { "id" : "smoothie05", "img" : "Smoothie05.png" , "title" : "자바칩바나치노" , "entitle" : "JavaChip Banaccino" , "content" : "달콤한 초콜릿과 자바칩, 고소한 우유와 휘핑크림을 풍성하게 올린 음료" , "price" : "4,800"},
+    { "id" : "smoothie06", "img" : "Smoothie06.png" , "title" : "바닐라쉐이크" , "entitle" : "Vanilla Shake" , "content" : "마다가스카르산 바닐라빈을 넣어 만든 부드럽고 달콤한 바닐라 쉐이크" , "price" : "4,800"},
+    { "id" : "smoothie07", "img" : "Smoothie07.png" , "title" : "녹차바나치노" , "entitle" : "GreenTea Banaccino", "content" : "쌉싸름한 녹차에 고소한 우유를 더해 휘핑크림을 듬뿍 올린 음료" , "price" : "4,800"},
+    { "id" : "smoothie08", "img" : "Smoothie08.png" , "title" : "딸기스무디" , "entitle" : "Strawberry Smoothie" , "content" : "새콤달콤한 딸기가 고소한 우유를 만나 부드러운 음료" , "price" : "4,800"},
+    { "id" : "smoothie09", "img" : "Smoothie09.png" , "title" : "망고스무디" , "entitle" : "MangoSmoothie" , "content" : "달콤한 망고를 넣어 만든 스무디" , "price" : "4,800"},
+    { "id" : "smoothie10", "img" : "Smoothie10.png" , "title" : "딸기퐁당초코치노" , "entitle" : "Strawberry Chococcino" , "content" : "새콤달콤한 딸기와 진한 초콜릿, 씹히는 자바칩으로 재밌는 식감까지 더한 초코치노" , "price" : "4,800"}
+
+   ],
+
+   "bread" : [
+
+    { "id" : "bread01", "img" : "Bread01.png" , "title" : "진짜감자빵" , "entitle" : "It's real potato bread" , "content" : "No 밀가루 찰 빵안에 진짜 감자를 으깨 듬뿍 넣은 달콤, 담백, 든든한 강원도 감자빵" , "price" : "3,500"},
+    { "id" : "bread02", "img" : "Bread02.png" , "title" : "바질베이글" , "entitle" : "Basil Bagel" , "content" : "고소한 바질과 쫀쫀한 밀가루의 만남" , "price" : "2,800"},
+    { "id" : "bread03", "img" : "Bread03.png" , "title" : "플레인베이글" , "entitle" : "Plain Bagel" , "content" : "담백하고 깔끔한 고소한 베이글" , "price" : "2,800"},
+    { "id" : "bread04", "img" : "Bread04.png" , "title" : "어니언베이글" , "entitle" : "Onion Bagel" , "content" : "달달한 양파와 고소한 베이글의 만남" , "price" : "2,800"},
+    { "id" : "bread05", "img" : "Bread05.png" , "title" : "핫치킨파니니" , "entitle" : "Hot Chicken Panini" , "content" : "매콤한 치킨과 달달한 소스에 풍미를 더한 치즈를 녹여낸 파니니" , "price" : "3,800"},
+    { "id" : "bread06", "img" : "Bread06.png" , "title" : "콰트로치즈파니니" , "entitle" : "Quatro Cheese Panini" , "content" : "고소한 콰트로 치즈를 듬뿍 넣은 파니니" , "price" : "3,800"},
+    { "id" : "bread07", "img" : "Bread07.png" , "title" : "페퍼로니파니니" , "entitle" : "Pepperoni Panini" , "content" : "짭쪼름한 페퍼로니와 고소한 치즈를 더한 파니니" , "price" : "3,800"}
+
+   ],
+
+   "dessert" : [
+
+    { "id" : "dessert01", "img" : "Dessert01.png" , "title" : "붕어빵" , "entitle" : "Bungo-ppang(2ea/ Red Bean)" , "content" : "달달한 단팥으로 만든 미니 붕어빵" , "price" : "3,500"},
+    { "id" : "dessert02", "img" : "Dessert02.png" , "title" : "붕어슈" , "entitle" : "Bungo-ppang(2ea/ Chox Cream)" , "content" : "고소하고 달달한 슈크림을 안은 미니 붕어슈", "price" : "3,500"},
+    { "id" : "dessert03", "img" : "Dessert03.png" , "title" : "호두품은호두과자" , "entitle" : "Hodu-gwaja(4ea)" , "content" : "통팥과 호두가 들어간 추억의 겨울간식" , "price" : "3,000"},
+    { "id" : "dessert04", "img" : "Dessert04.png" , "title" : "바나크룽지" , "entitle" : "Pressed Croissant" , "content" : "바삭바삭한 크로와상을 납작하게 누른 쿠키" , "price" : "3,000"},
+    { "id" : "dessert05", "img" : "Dessert05.png" , "title" : "말렌카케이크_호두" , "entitle" : "Marlenka Cake(Walnut)" , "content" : "쫀득한 케익시트 사이사이 호우와 천연 체코 허니크림을 겹겹이 샌딩한 체코 전통 디저트 케이크" , "price" : "3,500"},
+    { "id" : "dessert06", "img" : "Dessert06.png" , "title" : "말렌카케이크_코코아" , "entitle" : "Marlenka Cake(Cocoa)" , "content" : "쫀득한 초코케익시트 사이 코코아와 부드러운 연유크림을 겹겹이 샌딩한 체코 전통 디저트 케이크", "price" : "3,500"},
+    { "id" : "dessert07", "img" : "Dessert07.png" , "title" : "딸기마카롱" , "entitle" : "Strawberry Macaron" , "content" : "상큼달콤 딸기 크림과 부드러운 우유크림의 만남" , "price" : "2,800"},
+    { "id" : "dessert08", "img" : "Dessert08.png" , "title" : "우유마카롱" , "entitle" : "Milk Macaron" , "content" : "100% 청정 뉴질랜드 우유버터로 만든 진한 우유맛 마카롱", "price" : "2,800"},
+    { "id" : "dessert09", "img" : "Dessert09.png" , "title" : "초콜릿마카롱" , "entitle" : "Chocolate Macaron" , "content" : "진한 초콜릿을 직접 녹여 만들어 풍미가 제대로! 콕콕 박혀있는 초콜릿 청크까지!", "price" : "2,800"},
+    { "id" : "dessert10", "img" : "Dessert10.png" , "title" : "황치즈마카롱" , "entitle" : "Yellow Cheese Macaron" , "content" : "진한 치즈 풍미가 가득 담긴 예쁜 찐노랑색의 단짠 마카롱", "price" : "2,800"}
+
+   ]
+
+}
+}
